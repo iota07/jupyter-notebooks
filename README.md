@@ -4,10 +4,10 @@ These notebooks will serve as my training ground while learning about Deep Learn
 
 ## tech
 
-*TensorFlow
-*NumPy
-*Pandas
-*Jupyter notebook
+* TensorFlow
+* NumPy
+* Pandas
+* Jupyter notebook
 
 ## Chapters
 
