@@ -1,4 +1,4 @@
-# This is my jupyter notebooks repository
+# Jupyter notebooks repository
 
 These notebooks will serve as my training ground while learning about Deep Learning and Machine Learning and Data Science Framework
 
