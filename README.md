@@ -8,6 +8,7 @@ These notebooks will serve as my training ground while learning about Deep Learn
 * NumPy
 * Pandas
 * Jupyter notebook
+* Matplotlib
 
 ## Chapters
 
