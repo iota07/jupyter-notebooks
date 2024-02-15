@@ -5,6 +5,7 @@ These notebooks will serve as my training ground while learning about Deep Learn
 ## tech
 
 * TensorFlow
+* Keras
 * NumPy
 * Pandas
 * Jupyter notebook
