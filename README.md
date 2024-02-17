@@ -2,7 +2,7 @@
 
 These notebooks will serve as my training ground to practice my knowledge of Deep Learning and Machine Learning and Data Science Frameworks
 
-## tech
+## Tech
 
 * TensorFlow
 * Keras
