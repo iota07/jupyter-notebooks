@@ -10,6 +10,7 @@ These notebooks will serve as my training ground to practice my knowledge of Dee
 * Pandas
 * Jupyter notebook
 * Matplotlib
+* scikit-learn
 
 ## Chapters
 
