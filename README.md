@@ -8,7 +8,7 @@ These notebooks will serve as my training ground to practice my knowledge of Dee
 * Keras
 * NumPy
 * Pandas
-* Jupyter notebook
+* Project Jupyter
 * Matplotlib
 * scikit-learn
 
