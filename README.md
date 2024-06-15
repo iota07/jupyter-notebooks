@@ -1,5 +1,7 @@
 # Jupyter notebooks repository
-<img src="{[https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)}" />
+
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
 
 
 These notebooks will serve as my training ground to practice my knowledge of Deep Learning and Machine Learning and Data Science Frameworks
