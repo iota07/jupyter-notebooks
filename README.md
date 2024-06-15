@@ -1,5 +1,6 @@
 # Jupyter notebooks repository
-[https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white]
+![image]({[BadgeURLHere](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)})
+
 
 These notebooks will serve as my training ground to practice my knowledge of Deep Learning and Machine Learning and Data Science Frameworks
 
